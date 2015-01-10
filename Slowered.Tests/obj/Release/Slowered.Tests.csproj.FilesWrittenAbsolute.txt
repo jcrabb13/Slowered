@@ -1,0 +1,15 @@
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/Slowered.Tests.dll.mdb
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/Slowered.Tests.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/obj/Release/Slowered.Tests.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/obj/Release/Slowered.Tests.dll.mdb
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/Microsoft.Web.Infrastructure.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/System.Web.Razor.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/System.Web.Helpers.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/System.Web.WebPages.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/System.Web.WebPages.Deployment.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/System.Web.WebPages.Razor.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/System.Web.Mvc.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/nunit.framework.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/Slowered.dll
+/Users/jcrabb/Projects/Slowered/Slowered.Tests/bin/Release/Slowered.dll.mdb
