@@ -15,14 +15,18 @@ namespace Slowered.Tests
 		[Test]
 		public void Index ()
 		{
-
-			/*
-			//Arrange
+			//Arrange - index has tab menu
 			var controller = new HomeController ();
 
-			// Act
+			//Act
 			var result = (ViewResult)controller.Index ();
 
+
+
+			//Assert
+
+
+			/*
 			var mvcName = typeof(Controller).Assembly.GetName ();
 			var isMono = Type.GetType ("Mono.Runtime") != null;
 
