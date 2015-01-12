@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mvc4CSharpRazorFx45Intranet/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Mvc4CSharpRazorFx45Intranet/Views/Shared/_Layout.cshtml" Line="42" Column="42" />
+      <File FileName="Mvc4CSharpRazorFx45Intranet/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
