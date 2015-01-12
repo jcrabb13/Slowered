@@ -15,7 +15,7 @@ namespace Mvc4CSharpRazorFx45Intranet.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Projects()
         {
             ViewBag.Message = "Your app description page.";
 
